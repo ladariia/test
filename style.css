@@ -58,6 +58,6 @@ color: #F7FFF7;
 .anchor{
     color:#fff;
 }
-.anchor:visited{
-    color:#06ac34;
+.anchor:hover{
+    color:#119e39;
 }
